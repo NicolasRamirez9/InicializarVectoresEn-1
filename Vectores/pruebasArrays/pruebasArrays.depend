@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1536580948 source:c:\users\alumno\desktop\pruebasarrays\funciones.c
+
+1536584420 source:c:\users\alumno\desktop\pruebasarrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
